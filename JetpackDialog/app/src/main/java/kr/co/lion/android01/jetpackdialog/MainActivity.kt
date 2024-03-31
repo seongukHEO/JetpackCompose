@@ -84,7 +84,7 @@ fun MyDialog(){
             ) 
             
         }
-        
+        //이거야
         if (textState.isNotEmpty()){
             Text(text = "입력된 텍스트 : $textState")
         }
